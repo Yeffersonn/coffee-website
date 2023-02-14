@@ -1,5 +1,5 @@
 import { Footer } from "./content/Footer";
-import { Header } from "./content/header";
+import { Header } from "./content/Header";
 import { Main } from "./content/Main";
 
 function App() {
